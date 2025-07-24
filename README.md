@@ -7,9 +7,9 @@
 </h4>
 
 <p align="center">
-  <a target="_blank" href="https://waf.chaitin.com/">🏠 Website</a> &nbsp; | &nbsp;
-  <a target="_blank" href="https://docs.waf.chaitin.com/">📖 Docs</a> &nbsp; | &nbsp;
-  <a target="_blank" href="https://demo.waf.chaitin.com:9443/">🔍 Live Demo</a> &nbsp; | &nbsp;
+  <a target="_blank" href="https://ly.safepoint.cloud/laA8asp">🏠 Website</a> &nbsp; | &nbsp;
+  <a target="_blank" href="https://ly.safepoint.cloud/w2AeHhb">📖 Docs</a> &nbsp; | &nbsp;
+  <a target="_blank" href="https://ly.safepoint.cloud/hSMd4SH">🔍 Live Demo</a> &nbsp; | &nbsp;
   <a target="_blank" href="https://discord.gg/SVnZGzHFvn">🙋‍♂️ Discord</a> &nbsp; | &nbsp;
   <a target="_blank" href="/README_CN.md">中文版</a>
 </p>
@@ -77,11 +77,11 @@ List of the main features as follows:
 
 #### 📦 Installing
 
-Information on how to install SafeLine can be found in the [Install Guide](https://docs.waf.chaitin.com/en/tutorials/install)
+Information on how to install SafeLine can be found in the [Install Guide](https://docs.waf.chaitin.com/en/GetStarted/Deploy)
 
 #### ⚙️ Protecting Web Apps
 
-to see [Configuration](https://docs.waf.chaitin.com/en/tutorials/Configuration)
+to see [Configuration](https://docs.waf.chaitin.com/en/GetStarted/AddApplication)
 
 ## 📋 More Informations
 
